@@ -7,6 +7,7 @@ function App() {
       <Navbar />
       <Outlet />
       <h1>hello</h1>
+      
     </>
   )
 }
